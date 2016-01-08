@@ -33,7 +33,7 @@ gulp.task('tsd', function (callback) {
 });
 ```
 
-### 3. Write `gulp_tsd.json` (see blow)
+### 3. Write `gulp_tsd.json` (see below)
 
 ### 4. Write `tsd.json` (see below)
 
